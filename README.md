@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasanna
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently pursing Msc computer science 
 - 📫 How to reach me prasannatry801@gmail.com
 
 
